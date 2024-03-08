@@ -43,7 +43,7 @@ export default {
             brand: "Hiskywin",
             rating: 4.8,
             numReviews: 8,
-            countInStock: 2
+            countInStock: 3
         },
         {
             _id: 5,
@@ -98,7 +98,7 @@ export default {
             brand: "Hiskywin",
             rating: 4.3,
             numReviews: 8,
-            countInStock: 5
+            countInStock: 0
         },
         {
             _id: 10,
